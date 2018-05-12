@@ -1,0 +1,41 @@
+_repo: Monday-or-Tuesday_29220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woolf, Virginia
+    aliases:
+    - Stephen, Virginia
+    - Woolf, Virginia Stephen
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '89'
+    url: http://www.gutenberg.org/2009/agents/89
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+description: Originally hand-printed at her Hogarth Press in Richmond, Monday or Tuesday
+  is the only collection of short stories that Virginia Woolf published during her
+  lifetime, providing a fascinating insight into the early stages of development of
+  themes that would blossom in her later masterpieces. From the impressionist description
+  of four groups of people walking by a flowerbed in the botanic gardens at Kew to
+  the soaring flight of a heron above the teeming life of towns and cities below and
+  the reveries of a woman as she looks at a mark on the wall, the eight pieces included
+  in this volume showcase Woolf's inimitable observational powers and her boldly modern
+  style of writing.
+gutenberg_issued: '2009-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29220'
+  lccn: '21022105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PR'
+tableOfContents: A haunted house -- A society -- Monday or Tuesday -- An unwritten
+  novel -- The string quartet -- Blue & green -- Kew Gardens -- The mark on the wall.
+title: Monday or Tuesday
+url: http://www.gutenberg.org/ebooks/29220
